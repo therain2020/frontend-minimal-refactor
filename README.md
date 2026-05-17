@@ -1,0 +1,1 @@
+# Frontend Minimal Refactor Methodology
